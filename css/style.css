@@ -1,0 +1,17 @@
+input:focus:invalid {
+    box-shadow: 0 0 3px red;
+    }
+    input[type=text] {
+      -webkit-appearance: none;
+      outline-color: green;
+      padding: 10px;
+      border: 2px solid #03F;
+      box-sizing: border-box;
+      font-size: 50px;
+      max-width: 290px;
+  }
+    input[type=submit]{
+      background:transparent;
+      border:transparent;
+
+    }
